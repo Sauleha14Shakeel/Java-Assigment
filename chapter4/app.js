@@ -13,7 +13,7 @@ let var;
 let user name; 
 let 123number;
 let @email;
-let student-name;
+let student_name;
 // Question 03
 // a)
 let rules = "Rules for naming JS variable";
